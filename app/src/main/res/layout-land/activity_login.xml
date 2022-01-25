@@ -9,13 +9,13 @@
 
     <TextView
         android:id="@+id/textView5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="156dp"
+        android:layout_width="112dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="16dp"
         android:fontFamily="sans-serif-black"
         android:text="Sign In"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.465"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -104,8 +104,8 @@
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar3"
-        android:layout_width="409dp"
-        android:layout_height="wrap_content"
+        android:layout_width="865dp"
+        android:layout_height="67dp"
         android:background="#1882D6"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
